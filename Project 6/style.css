@@ -146,3 +146,23 @@ body {
     background: #151f20;
 }
 /* end of customers */
+
+/* Footer */
+
+.footer-link {
+    color: #eee;
+    font-size: 13px;
+    transition: all .3s;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -ms-transition: all .3s;
+    -o-transition: all .3s;
+}
+
+.footer-link:hover {
+    color: #70aed2;
+    text-decoration: none;
+}
+
+
+/*End of Footer */
